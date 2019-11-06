@@ -17,8 +17,8 @@
                                                         <item name="component" xsi:type="string">uiComponent</item>
                                                         <item name="displayArea" xsi:type="string">shippingAdditional</item>
                                                         <item name="children" xsi:type="array">
-                                                            <item name="delivery_date" xsi:type="array">
-                                                                <item name="component" xsi:type="string">AN_NewOrderAttribute/js/view/customjs</item>
+                                                            <item name="order_by" xsi:type="array">
+                                                                <item name="component" xsi:type="string">AN_NewOrderAttribute/js/customjs</item>
                                                             </item>
                                                         </item>
                                                     </item>

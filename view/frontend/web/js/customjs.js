@@ -5,7 +5,7 @@ define([
 'use strict';
 return Component.extend({
     defaults: {
-        template: 'AN_NewOrderAttribute/customtemp'
+        template: 'AN_NewOrderAttribute/custom_orderby'
     },
     initialize: function () {
         this._super();
